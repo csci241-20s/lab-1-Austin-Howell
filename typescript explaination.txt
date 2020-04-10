@@ -1,0 +1,1 @@
+I went through the lab and unforturnately was not able to record all of the steps due to the fact that I was using git bash and windows to go through the lab. Hopefully the changes and commits I made are satisfactory.
